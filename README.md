@@ -67,54 +67,7 @@ https://github.com/user-attachments/assets/2c6b1eae-73c3-402b-b0ea-2b40c85c91e3
 
 ---
 
-## 🚛 MODEL FINANSOWANIA: OEM LEASING & RWA YIELD (ZERO GOVERNANCE)
 
-Projekt odrzuca tradycyjny model oddawania udziałów w spółce na rzecz partnerstwa technologiczno-leasingowego:
-
-
-```
-
-┌─────────────────────────────────────────────────────────────────────────────┐
-│                       REC GLOB ALECO (Daniel Leśniak)                        │
-│             • 100% Własności IP, Patentów i Zarządzania Projektami           │
-└──────────────────────────────────────┬──────────────────────────────────────┘
-│
-▼ (Dostarczenie Technologii GALA 1-4)
-┌─────────────────────────────────────────────────────────────────────────────┐
-│                 PARTNER STRATEGICZNY / OEM (np. Mercedes / CAT)             │
-├─────────────────────────────────────────────────────────────────────────────┤
-│ • Finansowanie podwozi i ciągników w umowach leasingowych (CAPEX)           │
-│ • Zysk 1: Marża z rat leasingowych spłacanych z pracy floty                 │
-│ • Zysk 2: Tokenizowany Lease Yield ($GALA-SECURITY) z motogodzin floty     │
-│ • ZERO PRAW DECYZYJNYCH I BRAK UDZIAŁÓW W SPÓŁCE REC GLOB ALECO             │
-└─────────────────────────────────────────────────────────────────────────────┘
-
-```
-
-1. **Brak praw decyzyjnych (No Governance):** Inwestorzy oraz dostawcy sprzętu (np. Mercedes-Benz Financial, CAT) nie otrzymują głosów ani wpływu na zarząd, patenty i decyzje technologiczne.
-2. **Spłata z pracy floty:** Smart Kontrakt (`$GALA-SECURITY`) automatycznie odprowadza spłaty rat leasingowych i udział w przychodach z wynajmu/operacji floty na placach budowy.
-
----
-
-## 📊 SKRÓT EKONOMICZNY PROJEKTU
-
-| Parametr | Wartość |
-| :--- | :--- |
-| **Łączny CAPEX I Floty (GAL 1–4 + IP)** | **10 000 000 PLN** |
-| **Wartość bazowa IP (Patent Pending)** | **16 500 000 PLN** |
-| **Estymowana EBITDA (Rok 3)** | **22 100 000 PLN** |
-| **Estymowana EBITDA (Rok 5)** | **64 800 000 PLN** |
-| **Oszczędność dla klienta (Case Study 50 domów)** | **~77% (1,24 mln PLN oszczędności)** |
-
----
-
-## 🛠️ WARSTWA TECHNOLOGICZNA I SYSTEMOWA
-
-* **GALA Connect:** Zintegrowany, przelotowy interfejs spięcia danych i wysokiego napięcia między pojazdami GAL 1–4.
-* **System STOP:** Czujniki bezpieczeństwa i automatyczne wyłączniki przeciążeniowe linii.
-* **IoT & Telemetria:** Odczyt motogodzin i wyprodukowanego wolumenu materiału przesyłany on-chain do Oracle Smart Kontraktu.
-
----
 
 © 2026 **REC GlobalEco / Daniel Leśniak**. All Rights Reserved.
 
