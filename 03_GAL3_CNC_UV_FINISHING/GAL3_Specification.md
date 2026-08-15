@@ -1,6 +1,5 @@
-﻿==============================================================================
 03. GAL-3: CYFROWE CENTRUM CNC I DRUK UV
-==============================================================================
+
 OPIS TECHNICZNY:
 - 5-osiowe centrum obróbcze CNC + wiertarka przelotowa.
 - Drukarka przemysowa LED-UV z powokami lakierniczymi.
