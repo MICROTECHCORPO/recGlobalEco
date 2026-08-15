@@ -15,7 +15,14 @@ https://github.com/user-attachments/assets/f7522462-eb93-4b3d-9684-b9ec53f27ec9
 > **Model Finansowania:** OEM / Fleet Leasing & RWA Yield (100% Zero Governance)  
 > **Status:** Specyfikacja Techniczno-Przemysłowa / Ready for Deployment & Tokenization
 
+<img width="200" height="200" alt="1140094957257393227 — kopia" src="https://github.com/user-attachments/assets/f4fafc23-6ed0-40e0-8145-5ee870bbf3f8" />
+
+<img width="80" height="80" alt="unnamed" src="https://github.com/user-attachments/assets/04a1d563-d997-4895-af76-8707e8fc156e" />
+
+
 ---
+
+
 
 ## 🛡️ KLAUZULA POUFNOŚCI I OCHRONY WŁASNOŚCI INTELEKTUALNEJ (NDA & IP PROTECTED)
 
