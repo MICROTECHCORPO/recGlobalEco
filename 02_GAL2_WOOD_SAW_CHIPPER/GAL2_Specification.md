@@ -2,7 +2,8 @@
 
 
 02. GAL-2: MOBILNY TRAK DREWNA I WSTPNY RBACZ
-==============================================================================
+<img width="1380" height="752" alt="1000001517" src="https://github.com/user-attachments/assets/b76c9dcc-efcc-4561-a67f-fd461214f8ad" />
+
 OPIS TECHNICZNY:
 - Cyfrowy trak tamowo-tarczowy z automatycznym posuwem.
 - Heavy-duty rbacz wielkowydajny + rami hydrauliczne z chwytakiem.
