@@ -1,4 +1,5 @@
-![1000001515](https://github.com/user-attachments/assets/df9f1a4b-1f8b-41ad-8d7c-35118152fc27)
+<img width="512" height="279" alt="1000001512" src="https://github.com/user-attachments/assets/59d70720-f06e-4096-9d3e-c81a37950288" />
+
 
 02. GAL-2: MOBILNY TRAK DREWNA I WSTPNY RBACZ
 ==============================================================================
