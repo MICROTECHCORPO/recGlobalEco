@@ -1,3 +1,4 @@
+![1000001515](https://github.com/user-attachments/assets/df9f1a4b-1f8b-41ad-8d7c-35118152fc27)
 
 02. GAL-2: MOBILNY TRAK DREWNA I WSTPNY RBACZ
 ==============================================================================
