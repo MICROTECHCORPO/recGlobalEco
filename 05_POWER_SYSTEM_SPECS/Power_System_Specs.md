@@ -1,4 +1,4 @@
-<img width="512" height="279" alt="1000001518" src="https://github.com/user-attachments/assets/059fb097-f3d2-4744-96da-76cab991002b" />
+
 
 05. GALA POWER SYSTEM & SOLAR
   
