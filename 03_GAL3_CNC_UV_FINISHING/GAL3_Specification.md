@@ -1,3 +1,5 @@
+![1000001516](https://github.com/user-attachments/assets/410107d9-1c75-412a-837c-6b5e8911a1c6)
+
 03. GAL-3: CYFROWE CENTRUM CNC I DRUK UV
 
 OPIS TECHNICZNY:
