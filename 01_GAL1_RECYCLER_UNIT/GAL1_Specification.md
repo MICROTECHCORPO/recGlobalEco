@@ -1,3 +1,4 @@
+<img width="512" height="279" alt="1000001510" src="https://github.com/user-attachments/assets/56553cf8-dcd2-422b-9b38-b8024d91c9c6" />
 
 01. GAL-1: MOBILNY RECYKLER I FABRYKA PYT KOMPOZYTOWYCH
 ==============================================================================
